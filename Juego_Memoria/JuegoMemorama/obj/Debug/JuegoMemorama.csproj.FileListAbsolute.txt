@@ -1,0 +1,28 @@
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\bin\Debug\JuegoMemorama.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\bin\Debug\JuegoMemorama.exe
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\bin\Debug\JuegoMemorama.pdb
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\obj\Debug\JuegoMemorama.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\obj\Debug\JuegoMemorama.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\obj\Debug\JuegoMemorama.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\obj\Debug\JuegoMemorama.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\obj\Debug\JuegoMemorama.exe
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\obj\Debug\JuegoMemorama.pdb
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\bin\Debug\JuegoMemorama.exe.config
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\bin\Debug\JuegoMemorama.exe
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\bin\Debug\JuegoMemorama.pdb
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\obj\Debug\JuegoMemorama.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\obj\Debug\JuegoMemorama.Form1.resources
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\obj\Debug\JuegoMemorama.Properties.Resources.resources
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\obj\Debug\JuegoMemorama.csproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\obj\Debug\JuegoMemorama.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\obj\Debug\JuegoMemorama.exe
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\obj\Debug\JuegoMemorama.pdb
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\bin\Debug\MySql.Data.dll
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\bin\Debug\MySql.Web.dll
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\bin\Debug\MySql.Data.xml
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\bin\Debug\MySql.Web.xml
+C:\Users\Juan\Desktop\2ºDAM\VisualStudio\memoria_juego\JuegoMemorama\obj\Debug\JuegoMemorama.Juego_Memoria.resources
